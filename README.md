@@ -11,7 +11,7 @@ I love exploring data and uncovering insights that can drive decision-making and
 Frontend: React, Redux
 Backend: Node.js, Express
 Database: MongoDB
-Mobile: React Native
+Mobile: React Native, Flutter
 💡 Interests
 Web Development: Crafting responsive and dynamic applications using the MERN stack.
 Mobile App Development: Building user-friendly mobile experiences.
@@ -21,7 +21,7 @@ I'm always eager to collaborate on exciting projects or brainstorm new ideas. If
 
 📫 How to Reach Me
 [LinkedIn] 'https://www.linkedin.com/in/pranjal-shukla-897967221/'
-Email: pranjalshukla245@gmail.com
+Email: kirmadashukla@gmail.com
 😄 Pronouns
 He/Him
 
