@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi there! I'm Pranjal Shukla
+Welcome to my corner of GitHub! I'm passionate about technology, creativity, and continuous learning.
 
-<!--
-**KirmadaShukla/KirmadaShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
+🌱 Currently Learning:
+Data Science
+I love exploring data and uncovering insights that can drive decision-making and innovation.
 
-Here are some ideas to get you started:
+👨‍💻 My Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, Redux
+Backend: Node.js, Express
+Database: MongoDB
+Mobile: React Native
+💡 Interests
+Web Development: Crafting responsive and dynamic applications using the MERN stack.
+Mobile App Development: Building user-friendly mobile experiences.
+Data Science: Harnessing the power of data to create impactful solutions.
+🤝 Let's Connect!
+I'm always eager to collaborate on exciting projects or brainstorm new ideas. If you're looking for a tech partner, feel free to reach out!
+
+📫 How to Reach Me
+[LinkedIn] 'https://www.linkedin.com/in/pranjal-shukla-897967221/'
+Email: pranjalshukla245@gmail.com
+😄 Pronouns
+He/Him
+
+Thanks for visiting my profile! Feel free to explore my repositories, and let’s build something amazing together!
