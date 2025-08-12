@@ -1,4 +1,3 @@
-# Pranjal Shukla's Professional README
 
 ## 🚀 About Me
 I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Computer Science from UIT-RGPV, Bhopal (CGPA: 8.1). With hands-on experience in **full-stack development**, **automation**, and **data-driven solutions**, I thrive on building scalable, user-focused applications. My expertise spans **MERN stack**, **mobile development**, and **no-code automation**, with a keen interest in exploring **Data Science** to uncover actionable insights.
