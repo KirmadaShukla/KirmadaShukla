@@ -1,6 +1,11 @@
+# Pranjal Shukla's Animated README
+
+![Welcome Coding](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 
 ## 🚀 About Me
 I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Computer Science from UIT-RGPV, Bhopal (CGPA: 8.1). With hands-on experience in **full-stack development**, **automation**, and **data-driven solutions**, I thrive on building scalable, user-focused applications. My expertise spans **MERN stack**, **mobile development**, and **no-code automation**, with a keen interest in exploring **Data Science** to uncover actionable insights.
+
+![Developer Working](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif)
 
 ---
 
@@ -19,6 +24,8 @@ I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Compute
 - **User Security**: Secured access with **OTP-based login**, **JWT refresh tokens**, and **Nodemailer** email verifications.  
 - **Operational Insights**: Developed systems for **order tracking** and **user activity monitoring**, improving customer service efficiency.  
 
+![Code Typing](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif)
+
 ---
 
 ## 💻 Key Projects
@@ -36,6 +43,8 @@ I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Compute
 - Built an **n8n pipeline** to fetch tech articles from **RSS feeds**, summarize them using **Hugging Face AI**, and deliver to **500+ subscribers** via **Gmail**.  
 - Overcame **Substack API limitations** with custom email filtering logic, ensuring **100% automation** within Gmail’s free tier.  
 
+![Automation](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif)
+
 ---
 
 ## 🧠 Technical Skills
@@ -45,6 +54,8 @@ I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Compute
 - **DevOps**: **Docker**, Familiar with **AWS** & **GCP**  
 - **Version Control**: **Git**, **GitHub**  
 - **Other**: **C++**, **System Design**, **Postman**, **n8n automation**  
+
+![Tech Stack](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif) <!-- Example for React or similar -->
 
 ---
 
@@ -61,6 +72,8 @@ I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Compute
 - **LeetCode**: Global ranking **under 60K**.  
 - **HackerRank**: **4-star rating** in **C++** and **Python**.  
 
+![Achievement](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216649441-c7a4d602-5d9b-4c5b-99d4-697bddf6f8e0.gif)
+
 ---
 
 ## 🌟 Why Work With Me?
@@ -72,8 +85,10 @@ I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Compute
 
 ## 🤝 Connect With Me
 - **LinkedIn**: [Pranjal Shukla](https://www.linkedin.com/in/pranjal-shukla-897967221/)  
-- **GitHub**: [Pranjal Shukla](https://github.com/KirmadaShukla)  
+- **GitHub**: [Pranjal Shukla](https://github.com/your-profile)  
 - **Email**: [pranjalshukla245@gmail.com](mailto:pranjalshukla245@gmail.com)  
+
+![Connect](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif) <!-- Social icon example -->
 
 ---
 
