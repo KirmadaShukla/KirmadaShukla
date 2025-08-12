@@ -84,7 +84,7 @@ I'm Pranjal Shukla, a passionate **Software Developer** with a B.Tech in Compute
 
 ## 🤝 Connect With Me
 - **LinkedIn**: [Pranjal Shukla](https://www.linkedin.com/in/pranjal-shukla-897967221/)  
-- **GitHub**: [Pranjal Shukla](https://github.com/your-profile)  
+- **GitHub**: [Pranjal Shukla](https://github.com/KirmadaShukla)  
 - **Email**: [pranjalshukla245@gmail.com](mailto:pranjalshukla245@gmail.com)  
 
 ![Connect](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif) <!-- Social icon example -->
