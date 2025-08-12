@@ -1,4 +1,3 @@
-# Pranjal Shukla's Animated README
 
 ![Welcome Coding](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 
