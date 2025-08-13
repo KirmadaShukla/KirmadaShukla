@@ -53,8 +53,9 @@
 
 ## 🐍 Contribution Snake Animation
 
-![snake gif](https://raw.githubusercontent.com/KirmadaShukla/KirmadaShukla/output/snake.svg)
-
+<p align="center">
+  <img src="https://github.com/KirmadaShukla/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="animated graph" />
+</p>
 ---
 
 <!-- Footer Glow -->
