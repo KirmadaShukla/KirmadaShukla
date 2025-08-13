@@ -46,7 +46,6 @@
 ## 🏆 Achievements
 
 - 🥇 **Under 1000 rank** in Codathon (NIT-Bhopal)  
-- 🌍 **Global rank < 60K** on LeetCode  
 - ⭐ **4★** HackerRank in **C++** & **Python**
 
 ---
